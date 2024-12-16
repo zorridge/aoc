@@ -9,6 +9,7 @@
   "author": "Ziheng Zhou",
   "license": "ISC",
   "dependencies": {
+    "@datastructures-js/priority-queue": "^6.3.1",
     "graph-data-structure": "^4.3.0"
   }
 }
